@@ -1,0 +1,14 @@
+Project 1 (C) -- summary
+grid: jmax=5000 rmax=2800.00 kpc dr=0.56011 kpc
+rho0_iso      = 3.7888690328e-26 g/cm3  fb=0.16000000
+rho0_BCG      = 7.4889843521e-26 g/cm3  fb=0.16000000
+rho0_noniso   = 1.3961829205e-25 g/cm3  fb=0.16000000
+rho0_turb     = 8.8555226017e-26 g/cm3  fb=0.16000000
+M_DM(rmax)    = 1.284306e+15 Msun (analytic 1.284305e+15, rel.err 7.39e-07)
+isothermal analytic max rel.err (r>10 kpc) = 8.917e-04
+HSE residuals: iso=6.68e-04 BCG=8.28e-04 T(r)=1.16e-03 turb=1.07e-03
+turbulence: centre x0.6343 outer x1.1665, 13 iterations
+Fe diffusion only: M(<100kpc) 3.203e+08 -> 2.943e+08 -> 2.381e+08 Msun (t=1,2,5 Gyr)
+Fe source only   : M(<100kpc) 1.516e+07 -> 7.582e+07 Msun (t=1,5 Gyr), total 1.665e+07 -> 8.323e+07
+Fe source+diff   : M(<100kpc) 1.504e+07 -> 6.423e+07 Msun (t=1,5 Gyr), total 1.665e+07 -> 8.323e+07
+Fe mass conservation (diffusion only) = 5.288e-15

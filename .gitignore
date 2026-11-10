@@ -1,0 +1,14 @@
+# build products
+*.o
+*.obj
+project1
+project1.exe
+a.exe
+
+# optional plotting dependencies
+tools/node_modules/
+tools/package-lock.json
+
+# editor / OS noise
+.vscode/
+.DS_Store

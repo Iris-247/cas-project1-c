@@ -1,0 +1,9 @@
+{
+  "name": "project1-figures",
+  "private": true,
+  "type": "module",
+  "description": "Optional figure generator for the C project (reads ../output)",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.13"
+  }
+}
